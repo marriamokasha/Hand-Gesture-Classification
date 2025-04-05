@@ -9,11 +9,11 @@ Build a real-time gesture recognition system that can identify hand gestures fro
 
 ## 📊 Model Performance
 Multiple models were trained to identifiy hand gestures:
-* **XGBoost** → 98.11% → Tuned to 98.27%
-* **KNN** → 98.01% (best with default settings)
-* **Random Forest** → 97.46%
-* **SVM** → 97.07%
-* **Decision Tree** → 95.13%
+* **XGBoost** → 98.1% → Tuned to 98.3%
+* **KNN** → 98.0% (best with default settings)
+* **Random Forest** → 97.5%
+* **SVM** → 97.1%
+* **Decision Tree** → 95.1%
   
 > **🏆 Final model:** XGBoost (optimized)
 > 
