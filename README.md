@@ -20,8 +20,6 @@ Multiple models were trained to identifiy hand gestures:
 > `{ 'subsample': 0.6, 'n_estimators': 500, 'max_depth': 3, 'learning_rate': 0.2 }`
 
 
-## 📹 Output Sample
-You can see a short demo of the final result here https://drive.google.com/drive/folders/1fGR_xOG9IPiV1bGYd8SFOKNYWlz2AKOq?usp=sharing 
 
 
 ## 📌 Notes
