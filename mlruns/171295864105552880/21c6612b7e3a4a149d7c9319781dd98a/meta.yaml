@@ -1,8 +1,9 @@
 artifact_uri: file:///D:/ITI/Courses/Technical/25-Machine-Learning-in-Production/Final_Project/research/mlruns/171295864105552880/21c6612b7e3a4a149d7c9319781dd98a/artifacts
+deleted_time: 1748819286420
 end_time: 1748816952965
 entry_point_name: ''
 experiment_id: '171295864105552880'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 21c6612b7e3a4a149d7c9319781dd98a
 run_name: Random Forest
 run_uuid: 21c6612b7e3a4a149d7c9319781dd98a
