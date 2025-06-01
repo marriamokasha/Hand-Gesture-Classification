@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/ITI/Courses/Technical/25-Machine-Learning-in-Production/Final_Project/research/mlruns/171295864105552880/0d57d824dfcc4ec7bae66893561b4dd7/artifacts
+deleted_time: 1748795815882
+end_time: 1748792658584
+entry_point_name: ''
+experiment_id: '171295864105552880'
+lifecycle_stage: deleted
+run_id: 0d57d824dfcc4ec7bae66893561b4dd7
+run_name: SVM
+run_uuid: 0d57d824dfcc4ec7bae66893561b4dd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748792598427
+status: 3
+tags: []
+user_id: PC

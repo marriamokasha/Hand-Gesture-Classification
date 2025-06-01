@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748795692255
+current_stage: None
+description: ''
+last_updated_timestamp: 1748795692255
+name: Best Hand Gesture Classification Model
+run_id: ebe072bc11294b0abc253d8f15232058
+run_link: ''
+source: file:///D:/ITI/Courses/Technical/25-Machine-Learning-in-Production/Final_Project/research/mlruns/171295864105552880/ebe072bc11294b0abc253d8f15232058/artifacts/xgboost_tuned_model
+status: READY
+status_message: null
+storage_location: file:///D:/ITI/Courses/Technical/25-Machine-Learning-in-Production/Final_Project/research/mlruns/171295864105552880/ebe072bc11294b0abc253d8f15232058/artifacts/xgboost_tuned_model
+user_id: null
+version: 1

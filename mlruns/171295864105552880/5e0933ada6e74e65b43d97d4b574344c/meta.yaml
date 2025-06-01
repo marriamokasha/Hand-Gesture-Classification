@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/ITI/Courses/Technical/25-Machine-Learning-in-Production/Final_Project/research/mlruns/171295864105552880/5e0933ada6e74e65b43d97d4b574344c/artifacts
+deleted_time: 1748795815870
+end_time: 1748793174979
+entry_point_name: ''
+experiment_id: '171295864105552880'
+lifecycle_stage: deleted
+run_id: 5e0933ada6e74e65b43d97d4b574344c
+run_name: KNN Tuned
+run_uuid: 5e0933ada6e74e65b43d97d4b574344c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748793153798
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/ITI/Courses/Technical/25-Machine-Learning-in-Production/Final_Project/research/mlruns/171295864105552880/548e035eecdb45e0852e3880438e3eb9/artifacts
+deleted_time: 1748795815886
+end_time: 1748792598243
+entry_point_name: ''
+experiment_id: '171295864105552880'
+lifecycle_stage: deleted
+run_id: 548e035eecdb45e0852e3880438e3eb9
+run_name: Decision Tree
+run_uuid: 548e035eecdb45e0852e3880438e3eb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748792579458
+status: 3
+tags: []
+user_id: PC

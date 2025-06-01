@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/ITI/Courses/Technical/25-Machine-Learning-in-Production/Final_Project/research/mlruns/171295864105552880/88c088fe9f964d209111f72a3434dffc/artifacts
+deleted_time: 1748795815865
+end_time: 1748793153360
+entry_point_name: ''
+experiment_id: '171295864105552880'
+lifecycle_stage: deleted
+run_id: 88c088fe9f964d209111f72a3434dffc
+run_name: XGBoost Tuned
+run_uuid: 88c088fe9f964d209111f72a3434dffc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748792712669
+status: 3
+tags: []
+user_id: PC
